@@ -1,0 +1,2900 @@
+[
+  {
+    "ts": "2025-08-10T12:05:51.147393+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T12:06:01.486152+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T12:06:12.114966+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T12:06:22.445681+00:00",
+    "emotion": "Focused",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T12:06:32.720641+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T12:06:43.099621+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T12:06:49.228678+00:00",
+    "emotion": "Anxious",
+    "source": "manual",
+    "note": "stress"
+  },
+  {
+    "ts": "2025-08-10T12:06:54.168503+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T12:07:02.813125+00:00",
+    "emotion": "Calm",
+    "source": "manual",
+    "note": "haooy"
+  },
+  {
+    "ts": "2025-08-10T12:07:09.362497+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T12:07:21.642130+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T12:07:23.400435+00:00",
+    "emotion": "Calm",
+    "source": "manual",
+    "note": "drwe sdf sdf sdf sd fsd f sdsf dfsdf sd sd fsdf"
+  },
+  {
+    "ts": "2025-08-10T12:07:32.236049+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T12:07:42.540590+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T12:07:53.913271+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T12:08:04.425201+00:00",
+    "emotion": "Happy",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T12:08:14.745234+00:00",
+    "emotion": "Happy",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T12:08:24.980497+00:00",
+    "emotion": "Happy",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T12:08:36.902820+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T12:08:50.464482+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T12:09:06.422989+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T12:09:16.822465+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T12:09:30.133073+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T12:09:40.395705+00:00",
+    "emotion": "Focused",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T12:09:50.858865+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:06:13.473432+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:06:23.807884+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:06:34.190089+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:06:45.933954+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:06:56.343269+00:00",
+    "emotion": "Sad",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:07:06.701513+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:07:16.997929+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:07:35.478026+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:07:51.525452+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:08:02.018514+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:08:13.831836+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:08:24.133147+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:08:35.102249+00:00",
+    "emotion": "Stressed",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:08:45.451475+00:00",
+    "emotion": "Happy",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:08:55.850234+00:00",
+    "emotion": "Stressed",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:09:06.673792+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:09:17.988262+00:00",
+    "emotion": "Sad",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:09:28.258703+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:09:38.592682+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:09:46.873469+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:09:58.076735+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:10:08.751681+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:10:19.116511+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:10:29.433099+00:00",
+    "emotion": "Happy",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:10:39.790371+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:10:50.458848+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:11:01.141776+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:11:11.618284+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:11:21.948689+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:11:32.441876+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:11:42.820142+00:00",
+    "emotion": "Focused",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:11:53.784306+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:12:04.157211+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:12:15.616217+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:12:26.860174+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:12:37.825725+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:12:49.414561+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:12:59.856353+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:13:12.285242+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:13:22.580595+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:13:32.944319+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:13:46.346578+00:00",
+    "emotion": "Focused",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:13:56.653329+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:14:06.987464+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:14:17.839599+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:14:28.636048+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:14:39.468954+00:00",
+    "emotion": "Stressed",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:14:49.883264+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:15:00.693069+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:15:11.273945+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:15:21.570274+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:15:35.182332+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:15:45.546643+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:15:55.978570+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:16:07.222926+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:16:22.537270+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:16:34.812754+00:00",
+    "emotion": "Sad",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:16:46.818618+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:17:01.691984+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:17:14.360288+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:17:24.968769+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:17:36.612887+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:17:52.470833+00:00",
+    "emotion": "Sad",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:18:03.797669+00:00",
+    "emotion": "Sad",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:18:16.738609+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:18:36.228467+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:18:50.076309+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:19:07.636695+00:00",
+    "emotion": "Sad",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:19:18.114449+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:19:35.554668+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:19:46.627639+00:00",
+    "emotion": "Sad",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:20:12.704545+00:00",
+    "emotion": "Sad",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:20:29.341821+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:20:43.231554+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:20:59.453684+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:21:15.830864+00:00",
+    "emotion": "Sad",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:21:33.979794+00:00",
+    "emotion": "Sad",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:22:00.490354+00:00",
+    "emotion": "Sad",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:23:15.496458+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:23:25.845125+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:23:36.320194+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:23:47.669564+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:23:58.577446+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:24:09.015480+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:24:19.318591+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:24:29.778994+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:24:40.763878+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:24:52.636493+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:25:03.569550+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:25:15.735966+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:25:28.155666+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:25:38.708329+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:25:49.506743+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:26:00.572455+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:26:12.132530+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:26:25.065292+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:26:37.255653+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:26:47.732681+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:27:03.714093+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:27:14.722055+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:27:27.369819+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:27:39.038217+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:27:50.950057+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:28:02.556899+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:28:15.227697+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:28:27.010582+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:28:41.299371+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:28:54.170771+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:29:06.279056+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:29:17.926652+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:29:28.242876+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:29:42.055952+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:29:52.866947+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:30:03.449571+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:30:23.085398+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:30:34.845341+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:30:48.761829+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:31:06.976637+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:31:19.090483+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:31:32.640786+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:31:46.147808+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:32:10.355775+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:32:21.057046+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:32:38.728422+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:32:59.793066+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:33:14.480199+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:33:27.617133+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:33:39.662843+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:33:49.968923+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:34:01.354495+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:34:11.770555+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:34:25.468840+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:34:40.747876+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:34:55.142473+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:35:09.855000+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:35:22.481375+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:35:37.262614+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:35:47.850917+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:35:58.503654+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:36:10.809013+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:36:21.696885+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:36:34.265019+00:00",
+    "emotion": "Angry",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:36:46.285063+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:36:56.860907+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:37:07.756957+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:37:21.173885+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:37:31.715414+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:37:45.128741+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:38:11.017318+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:38:24.505615+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:38:35.444280+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:38:46.614268+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:38:58.930240+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:39:17.716576+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:39:34.632792+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:39:46.014704+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:39:56.882218+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:40:08.741558+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:40:22.959580+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:40:39.567251+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:40:53.301596+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:41:15.439269+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:41:26.974153+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:41:37.371845+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:41:50.629888+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:42:14.769696+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:42:32.311475+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:42:49.524366+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:42:59.938667+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:43:10.455799+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:43:25.616431+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:43:36.494069+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:43:47.376776+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:44:10.326530+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:44:23.210235+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:44:37.444677+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:44:49.046564+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:45:00.413837+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:45:12.220887+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:45:30.548018+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:45:43.580950+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:45:54.275862+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:46:15.517935+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:46:26.191782+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:46:38.299853+00:00",
+    "emotion": "Angry",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:46:48.870607+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:47:01.513479+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:47:20.662399+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:47:31.586287+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:47:42.224746+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:47:52.722661+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:48:13.681758+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:48:24.568249+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:48:35.642915+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:48:46.080827+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:48:56.883564+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:49:07.363456+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:49:19.043084+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:49:29.391438+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:49:41.599143+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:49:52.739315+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:50:03.189872+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:50:17.237349+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:50:29.794573+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:50:40.134038+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:50:50.447193+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:51:00.976438+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:51:11.494596+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:51:22.643200+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:51:32.928593+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:51:44.993693+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:52:03.801054+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:52:14.933374+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:52:25.517490+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:52:38.729636+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:52:49.477935+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:53:00.276162+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:53:20.878206+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:53:32.443673+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:53:45.825435+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:53:56.141814+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:54:07.019498+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:54:19.698296+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:54:30.034730+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:54:40.726204+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:54:53.425924+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:55:05.128763+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:55:16.191137+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:55:26.879001+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:55:38.231289+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:55:48.677176+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:56:03.099782+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:56:14.925480+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:56:26.483469+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:56:38.868950+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:56:51.916248+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:57:02.761133+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:57:13.239220+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:57:23.731158+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:57:39.985766+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:57:52.143706+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:58:02.526256+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:58:18.305935+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:58:29.923199+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:58:40.572496+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:58:51.523127+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:59:02.049590+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:59:13.151685+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:59:25.422511+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:59:36.220554+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:59:46.706480+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T16:59:57.311809+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:00:07.636437+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:00:19.587836+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:00:34.583460+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:00:45.437500+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:00:56.003599+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:01:10.824548+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:01:23.296237+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:01:34.743719+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:01:45.867660+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:02:05.801743+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:02:16.094101+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:02:26.445674+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:02:37.265451+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:02:47.994204+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:02:58.403498+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:03:08.910729+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:03:19.252588+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:03:29.735752+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:03:40.228038+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:03:50.886686+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:04:03.283506+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:04:13.833638+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:04:25.092327+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:04:36.326833+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:04:49.385611+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:05:05.626929+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:05:16.338137+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:05:27.661348+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:05:38.863886+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:05:49.760538+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:06:00.383246+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:06:10.783745+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:06:22.049612+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:06:32.458456+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:06:43.049045+00:00",
+    "emotion": "Angry",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:06:54.391695+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:07:04.985024+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:07:15.683552+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:07:26.540286+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:07:38.132185+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:07:48.498079+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:07:59.107719+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:08:09.459838+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:08:19.778757+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:08:31.107861+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:08:42.503948+00:00",
+    "emotion": "Angry",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:08:52.987437+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:09:05.710319+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:09:17.173995+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:09:27.918188+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:09:38.507492+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:09:48.936385+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:10:01.078189+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:10:11.471769+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:10:23.381138+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:10:35.768802+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:10:48.935974+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:11:06.839579+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:11:19.597864+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:11:31.611738+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:11:42.058201+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:11:52.812696+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:12:03.912083+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:12:17.115532+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:12:28.074355+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:12:40.998135+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:12:54.403800+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:13:06.768816+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:13:17.390351+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:13:34.190758+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:13:49.566516+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:14:00.781197+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:14:11.640124+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:14:22.844279+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:14:34.752332+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:14:46.708382+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:14:58.750898+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:15:10.316930+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:15:21.984951+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:15:34.662528+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:15:45.107809+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:15:57.257125+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:16:08.898912+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:16:19.538398+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:16:29.858619+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:16:40.174646+00:00",
+    "emotion": "Happy",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:16:50.796706+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:17:06.375533+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:17:16.959090+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:17:28.351041+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:17:43.170880+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:17:55.067742+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:18:06.600070+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:18:18.968572+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:18:35.157369+00:00",
+    "emotion": "Focused",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:18:47.578815+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:18:57.933654+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:19:08.243229+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:19:19.837528+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:19:30.589876+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:19:41.052032+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:19:52.420852+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:20:03.670533+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:20:14.699318+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:20:26.627145+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:20:37.610504+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:20:48.883073+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:20:59.777659+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:21:10.074204+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:21:20.804910+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:21:31.585357+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:21:48.666373+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:21:59.411632+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:22:10.218005+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:22:20.671737+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:22:32.019284+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:22:43.469500+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:22:55.086451+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:23:06.421066+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:23:24.550091+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:23:35.756657+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:23:47.684319+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:23:58.351935+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:24:08.795160+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:24:19.269404+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:24:30.298702+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:24:40.777934+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:24:51.187480+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:25:01.818802+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:25:12.122876+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:25:23.037536+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:25:34.436337+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:25:45.480848+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:25:56.174644+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:26:07.051083+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:26:21.456777+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:26:31.755620+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:26:42.407193+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:26:53.009998+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:27:04.290266+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:27:17.615417+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:27:28.310690+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:27:39.116221+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:27:55.761923+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:28:06.594349+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:28:18.544138+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:28:30.525053+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:28:43.497455+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:29:03.348290+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:29:14.747707+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:29:25.068666+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:29:42.031609+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:29:55.909555+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:30:10.093950+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:30:24.717634+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:30:44.511717+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T17:31:35.863803+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T18:55:40.010327+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:04:37.697322+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:22:18.100803+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:22:29.862400+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:22:40.165315+00:00",
+    "emotion": "Sad",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:22:52.534393+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:23:13.479938+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:23:24.135134+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:23:34.843089+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:23:53.732375+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:24:17.043575+00:00",
+    "emotion": "Sad",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:24:30.470601+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:24:42.451486+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:24:53.779330+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:25:05.585992+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:25:26.341678+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:26:18.845916+00:00",
+    "emotion": "Sad",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:26:29.414409+00:00",
+    "emotion": "Sad",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:26:51.272462+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:27:01.795617+00:00",
+    "emotion": "Sad",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:27:12.932346+00:00",
+    "emotion": "Sad",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:27:33.191861+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:27:44.418314+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:27:55.812908+00:00",
+    "emotion": "Sad",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:28:06.097362+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:28:16.425607+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:28:26.695034+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:28:37.305756+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:28:47.599327+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:29:03.166727+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:29:13.550496+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:29:24.606632+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:29:36.363416+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:29:46.970905+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:29:58.330878+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:30:10.086764+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:30:22.824097+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:30:42.690700+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:30:54.061759+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:31:25.891412+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:31:36.887297+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:31:47.381979+00:00",
+    "emotion": "Sad",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:32:01.711700+00:00",
+    "emotion": "Tired",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:32:14.638518+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:32:25.038737+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:32:36.302065+00:00",
+    "emotion": "Stressed",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:32:47.801898+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:32:58.271234+00:00",
+    "emotion": "Calm",
+    "source": "groq",
+    "note": ""
+  },
+  {
+    "ts": "2025-08-10T19:33:56.013021+00:00",
+    "emotion": "Anxious",
+    "source": "groq",
+    "note": ""
+  }
+]
