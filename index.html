@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Emotion-Aware Dashboard</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    #taskFilterBar .chip.active { background:#1479FF; color:#fff; border-color:#1479FF; }
+    .quick-badge { color:#facc15; font-size:14px; margin-right:6px; line-height:1; }
+    .priority-selector { display:flex; gap:12px; align-items:center; flex-wrap:wrap; }
+    .prio-opt { display:inline-flex; align-items:center; gap:6px; }
+    .quick-toggle { margin-left:auto; }
+    .quick-toggle.chip.active { background:#1479FF; color:#fff; border-color:#1479FF; }
+    .dimmed { filter: grayscale(0.2) brightness(0.95); }
+    .email-item.unread { font-weight: 600; }
+    .completed-wrap .hidden { display: none; }
+    .compose-window.minimized .compose-body, .compose-window.minimized .compose-footer { display: none; }
+  </style>
+</head>
+<script src="{{ url_for('static', filename='js/app.js') }}" defer></script>
+<body>
+  <div class="container">
+    <!-- Sidebar: Tasks -->
+    <div class="sidebar">
+      <div class="tm-header">
+        <h2>Task Manager</h2>
+        <button id="newTaskBtn" class="pill-btn primary">New Task</button>
+      </div>
+      <div id="taskCounts" class="task-counts">Open: 0 • Completed: 0</div>
+      <div id="tmNote" class="tm-note" style="display:none;">Quick tasks only (based on mood)</div>
+      <div id="taskFilterBar" class="task-filters" style="margin:8px 0 10px 0; display:flex; flex-wrap:wrap; gap:6px;"></div>
+      <div id="taskList"></div>
+    </div>
+
+    <!-- Main: Emails + Emotion -->
+    <div class="main-content">
+      <div class="email-toolbar">
+        <button class="compose-btn" id="composeOpenBtn">Compose</button>
+        <div class="mail-tabs">
+          <button class="active-tab" data-tab="inbox">Inbox</button>
+          <button data-tab="starred">Starred</button>
+          <button data-tab="sent">Sent</button>
+          <button data-tab="draft">Draft</button>
+        </div>
+        <div class="toolbar-right">
+          <button id="openJournalBtn" class="pill-btn">Mood Journal</button>
+          <button id="openSummaryBtn" class="pill-btn primary">Daily Summary</button>
+        </div>
+      </div>
+
+      <div class="inbox-container">
+        <div class="email-list" id="emailListContainer"></div>
+
+        <div class="email-box">
+          <div class="email-header">
+            <div class="sender"><strong id="emailSender"></strong></div>
+            <div class="receiver" id="emailReceiver" style="display:none;"></div>
+            <div class="subject" id="emailSubject"></div>
+            <div class="date" id="emailDate"></div>
+          </div>
+          <div class="email-actions">
+            <button class="pill-btn" id="replyBtn" disabled>Reply</button>
+          </div>
+          <div class="email-body" id="emailContent">Select an email to read...</div>
+        </div>
+      </div>
+
+      <div class="groq-controls">
+        <div class="groq-buttons">
+          <button class="groq-btn" id="toggleEmotionSectionBtn">Hide/Show Emotion Status</button>
+          <button class="groq-btn" id="toggleDetectionBtn">Turn Off Emotion Detection</button>
+        </div>
+        <div class="groq-results">
+          <h3>Emotion Status</h3>
+          <ul id="groqList"></ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Webcam feed -->
+  <div class="webcam-feed">
+    <img src="{{ url_for('video_feed') }}" alt="Live Webcam Feed">
+  </div>
+
+  <!-- Suggestion modal -->
+  <div id="suggestionModal" class="modal">
+    <div class="modal-content">
+      <span class="close" id="suggestionClose">&times;</span>
+      <h3 id="modalEmotion"></h3>
+      <p id="modalSuggestion"></p>
+    </div>
+  </div>
+
+  <!-- Mood Journal Modal -->
+  <div id="journalModal" class="modal">
+    <div class="modal-content" style="min-width:560px; text-align:left;">
+      <span id="journalClose" class="close">&times;</span>
+      <h3>Anonymous Mood Journal</h3>
+
+      <div class="modal-toolbar">
+        <div class="field">
+          <label for="journalDate">Date (Local)</label>
+          <input type="date" id="journalDate">
+        </div>
+        <button id="journalRefresh" class="pill-btn">Refresh</button>
+      </div>
+
+      <ul id="journalList" class="list" style="max-height:220px; overflow:auto;"></ul>
+      <div class="divider"></div>
+
+      <div class="grid-3">
+        <div class="field">
+          <label for="journalEmotion">Emotion</label>
+          <select id="journalEmotion">
+            <option>Calm</option><option>Happy</option><option>Focused</option>
+            <option>Stressed</option><option>Angry</option><option>Sad</option>
+            <option>Tired</option><option>Anxious</option>
+          </select>
+        </div>
+        <div class="field">
+          <label for="journalNote">Note (optional)</label>
+          <input id="journalNote" type="text" placeholder="What happened?">
+        </div>
+        <div class="actions">
+          <button id="journalAdd" class="pill-btn primary">Add Entry</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Daily Summary Modal -->
+  <div id="summaryModal" class="modal">
+    <div class="modal-content" style="min-width:620px; text-align:left;">
+      <span id="summaryClose" class="close">&times;</span>
+      <h3>Daily Emotion Summary</h3>
+
+      <div class="modal-toolbar">
+        <div class="field">
+          <label for="summaryDate">Date (Local)</label>
+          <input type="date" id="summaryDate">
+        </div>
+        <button id="summaryRefresh" class="pill-btn">Refresh</button>
+      </div>
+
+      <canvas id="summaryChart" width="560" height="220" style="border:1px solid #eef5fd; border-radius:8px;"></canvas>
+      <p id="summaryTop" style="margin-top:10px; color:#193868;"></p>
+      <ul id="summaryList" class="list"></ul>
+    </div>
+  </div>
+
+  <!-- Task Modal -->
+  <div id="taskModal" class="modal">
+    <div class="modal-content" style="min-width:520px; text-align:left;">
+      <span class="close" id="taskModalClose">&times;</span>
+      <h3>New Task</h3>
+
+      <div class="field" style="margin-top:6px;">
+        <label for="taskTextInput">Task</label>
+        <input id="taskTextInput" type="text" placeholder="e.g. Reply HR email">
+      </div>
+
+      <div class="field" style="margin-top:12px;">
+        <label>Priority</label>
+        <div class="priority-selector">
+          <label class="prio-opt"><input type="radio" name="prio" value="high"><span class="priority-dot high"></span>High</label>
+          <label class="prio-opt"><input type="radio" name="prio" value="medium" checked><span class="priority-dot medium"></span>Medium</label>
+          <label class="prio-opt"><input type="radio" name="prio" value="low"><span class="priority-dot low"></span>Low</label>
+          <button type="button" id="taskQuickBtn" class="chip quick-toggle" title="Mark as quick (⚡)">⚡ Quick</button>
+        </div>
+      </div>
+
+      <div style="margin-top:14px; display:flex; gap:8px; justify-content:flex-end;">
+        <button class="discard-btn" id="taskModalCancel">Cancel</button>
+        <button class="send-btn" id="taskModalAdd">Add Task</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Toast -->
+  <div id="toast" class="toast"></div>
+
+  <!-- Floating Compose Window -->
+  <div id="composeWindow" class="compose-window" style="display:none; left:auto; right:20px; bottom:0;">
+    <div id="composeHeader" class="compose-header">
+      <span>New Message</span>
+      <div class="compose-actions">
+        <button title="Minimize" class="icon-btn" id="composeMinimizeBtn">_</button>
+        <button title="Close" class="icon-btn" id="composeCloseBtn">×</button>
+      </div>
+    </div>
+    <div class="compose-body">
+      <div class="compose-row"><label>To</label><input id="composeTo" type="text" placeholder="recipient@example.com"></div>
+      <div class="compose-row"><label>Subject</label><input id="composeSubject" type="text" placeholder="Subject"></div>
+      <div class="compose-row compose-row--textarea"><label>Body</label><textarea id="composeBody" placeholder="Write your message..." rows="10"></textarea></div>
+    </div>
+    <div class="compose-footer">
+      <button class="send-btn" id="composeSendBtn">Send</button>
+      <button class="discard-btn" id="composeSaveDraftBtn">Save Draft</button>
+      <button class="discard-btn" id="composeCloseBtn2">Close</button>
+    </div>
+  </div>
+
+  
+</body>
+</html>
